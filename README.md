@@ -1,16 +1,47 @@
-# React + Vite
+# 🎬 Movie App (React + Redux + Context API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and scalable movie browsing application built using **React**, **Redux**, and **Context API**.
+This project demonstrates advanced state management techniques while consuming real-time movie data from an external API.
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🔍 Search for movies by title
+* 🎞️ Browse trending and popular movies
+* 📄 View detailed movie information
+* ❤️ Add/remove movies from favorites (or watchlist)
+* ⚡ Efficient state management with Redux
+* 🌐 Global state sharing using Context API
+* 🔄 API integration (e.g., TMDB)
+* 📱 Fully responsive design
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* React Router DOM
+
+### State Management
+
+* Redux
+* React Redux
+* Context API
+
+### API & Data
+
+* Axios / Fetch API
+
+
+## 👨‍💻 Author
+
+**Mohamed Ibrahim**
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
+
+---
